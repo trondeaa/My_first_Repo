@@ -1,2 +1,2 @@
 # My_first_Repo
-Just a test
+This is just a test to learn how to use Github
